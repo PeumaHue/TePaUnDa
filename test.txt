@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test estas modificacion marco
+=======
+test estas otra
+>>>>>>> origin/gh-pages
 esta
